@@ -150,7 +150,7 @@ Morrows_Peak_Outpost = {
     "Region" : "The Devils Roar",
     "LocationX" : "V",
     "LocationY" : 17,
-    "Image" : "Islands/MorrowsPeakOutpostMap.png"
+    "Image" : "Islands/MorrowPeakOutpostMap.png"
 }
 Plunder_Outpost = {
     "Name" : "Plunder Outpost",
@@ -384,7 +384,7 @@ Black_Sand_Atoll = {
     "Image" : "Islands/BlackSandAtollMap.png"
 }
 Blind_Mans_Lagoon = {
-    "Name" : "Blind Mands Lagoon",
+    "Name" : "Blind Mans Lagoon",
     "Region" : "The Wilds",
     "LocationX" : "N",
     "LocationY" : 6,
@@ -642,4 +642,11 @@ Islands = [
     Kraken_Watchtower,
     Shark_Fin_Camp,
     Molten_Sands_Fortress,
+    Sanctuary_Outpost,
+    Golden_Sands_Outpost,
+    Plunder_Outpost,
+    Ancient_Spire_Outpost,
+    Galleons_Grave_Outpost,
+    Dagger_Tooth_Outpost,
+    Morrows_Peak_Outpost,
 ]
